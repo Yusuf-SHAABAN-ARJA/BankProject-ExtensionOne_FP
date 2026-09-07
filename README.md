@@ -27,7 +27,7 @@ An extended command-line Bank Management System built in C++ using **Functional 
 ## 📸 Screenshots
 
 ### 1. Main Menu Screen
-![Main Screen](Images/MainScreen.png)
+![Main Screen](Images/MainScreen1.png)
 
 ### 2. Client List View
 ![Clients List](Images/ClientsList.png)
